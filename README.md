@@ -1,4 +1,4 @@
-![alt text](https://github.com/Pivotal-Data-Engineering/gemfire-azure/blob/master/Pivotal-GemFire-Logo-FullColor.png)
+<h1> VMware has ended active development of this project, this repository will no longer be updated.</h1><br>![alt text](https://github.com/Pivotal-Data-Engineering/gemfire-azure/blob/master/Pivotal-GemFire-Logo-FullColor.png)
 ## Pivotal GemFire On Microsoft Azure.
 
 ##### Automated provisioning of Pivotal GemFire clusters on the Microsoft Azure cloud
